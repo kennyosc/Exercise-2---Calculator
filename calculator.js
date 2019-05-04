@@ -1,3 +1,10 @@
+// buat var total
+// buat var penampung angka pertama
+// buat var penampung angka kedua
+// cukup buat perhitungan antara penampung pertama dan penampung kedua.
+// karena hasil dari perhitungan itu akan dimasukkan ke dalam variable khusus untuk totalnya apa
+// pakai .eval untuk menunjukkan hasil perhitungannya
+
 var total = [];
 
 function klik1(){
